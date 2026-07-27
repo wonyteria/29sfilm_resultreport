@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated/runtime output
+output/
+*.log
+*.tmp
+~$*
+
+# Client source material and generated report artifacts
+*.pptx
+*.pdf
+*.zip
+29초영화제_결과보고_표준폴더/
+
+# Local analysis artifacts regenerated from private reference reports
+pptx_analysis.json
+page_catalog.json
+docs/2026_SHINHAN_READINESS.md
+docs/29초영화제_AI영상교육_자격사업_신사업기획안_v1.md
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
